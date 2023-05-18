@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Hava_Durumu_ComboBox", "Hava_Durumu_ComboBox\Hava_Durumu_ComboBox.vbproj", "{FB69E428-F8BB-4FD6-93DC-D2931B649502}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB69E428-F8BB-4FD6-93DC-D2931B649502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB69E428-F8BB-4FD6-93DC-D2931B649502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB69E428-F8BB-4FD6-93DC-D2931B649502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB69E428-F8BB-4FD6-93DC-D2931B649502}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E13FE570-2B94-4E2C-922B-92E668ED108A}
+	EndGlobalSection
+EndGlobal
