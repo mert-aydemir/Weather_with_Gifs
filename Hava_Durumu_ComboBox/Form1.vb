@@ -42,7 +42,7 @@ Public Class Form1
 
 
         ' API Anahtarımı, değişkene atayarak, kullanımını kolaylaştırıyorum.
-        Dim API_KEY As String = "f400c3f68076a793ae23e656677ad393"
+        Dim API_KEY As String = "API KEY"
 
         ' Seçilen şehri ComboBox'tan alıyorm.
         Dim city As String = ComboBox1.SelectedItem.ToString()
